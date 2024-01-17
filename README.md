@@ -3,7 +3,7 @@
 👩🏻‍💻 Self-study technology<br/>
 👩🏻‍🎓 Studied Software Engineering at FPT University<br/>
 🎨 Making videos or designing some things when having leisure time<br/>
-💭 Currently researching about new things!<br/>
+💭 Currently researching new things!<br/>
 
 # 💻 Tech Stack
 
