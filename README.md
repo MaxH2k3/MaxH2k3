@@ -30,7 +30,7 @@ class About extends Me {
     "ProgramingLanguages" : { "C/C++/C#", "Python", "Javascript", "Java"},
     "OtherLanguages" : { "HTML", "CSS", "Typescript", "Json", "Markdown" },
     "Database" : { "Firebase", "Relation Database", "NoSQL Database" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Adobe", "Notion" }
+    "OtherTools" : { "Git", "Figma", "Notion", Unity }
   };
 }
 ```
