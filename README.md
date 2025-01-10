@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary>  Overview :   </summary> </strong></p>
 Hi, I'm <strong>Le Huy</strong> (My English name is Max), a passionate <strong>Software Engineering</strong> who loves creating impactful solutions. 
 <br>Whether it's crafting elegant code or tackling complex challenges, I thrive on innovation. Let's connect!  
 
@@ -12,11 +12,6 @@ Hi, I'm <strong>Le Huy</strong> (My English name is Max), a passionate <strong>S
 <a href="https://www.linkedin.com/in/lehuy93/">💼 LinkedIn</a>
 
 </details>
-
-<p align="center">Visitors</p>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MaxH2k3/count.svg?"  />
-</div>
 
 <br>
 </div>
@@ -53,6 +48,11 @@ class About extends Me {
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxH2K3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </a>
+
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MaxH2k3/count.svg?"  />
+</div>
 
 <hr></hr>
 
