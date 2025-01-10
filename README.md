@@ -13,9 +13,16 @@ Hi, I'm <strong>Le Huy</strong> (My English name is Max), a passionate <strong>S
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MaxH2k3&style=flat&color=orange&label=PROFILE+VIEWS)
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MaxH2k3/count.svg?"  />
+</div>
 
 <br>
+</div>
+
+<div align="center">
+  <img loading="lazy" src="https://skillicons.dev/icons?i=dotnet,spring,nextjs,react,docker,googlecloud,aws,azure" alt="skills"  />
 </div>
 
 <hr></hr>
